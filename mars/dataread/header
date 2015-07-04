@@ -1,0 +1,79 @@
+SITE_ID 0
+
+
+
+VrtlName 1
+VrtlID 2
+MetaName 3
+MetaID 4
+L2Name 5
+L2ID 6
+L3Name 7
+L3ID 8
+L4Name 9
+L4ID 10
+LeafName 11
+LeafID 12
+
+
+R1Y.bi 13
+Power.bi 14
+PeakMonth.bi 15
+mSNR.bi 16
+
+Jan.bi 17
+Feb.bi 18
+Mar.bi 19
+Apr.bi 20
+May.bi 21
+Jun.bi 22
+Jul.bi 23
+Aug.bi 24
+Sep.bi 25
+Oct.bi 26
+Nov.bi 27
+Dec.bi 28
+
+Jan_SNR.bi 29
+Feb_SNR.bi 30
+Mar_SNR.bi 31
+Apr_SNR.bi 32
+May_SNR.bi 33
+Jun_SNR.bi 34
+Jul_SNR.bi 35
+Aug_SNR.bi 36
+Sep_SNR.bi 37
+Oct_SNR.bi 38
+Nov_SNR.bi 39
+Dec_SNR.bi 40
+
+R1Y.gmb 41
+Power.gmb 42
+PeakMonth.gmb 43
+mSNR.gmb 44
+
+Jan.gmb 45
+Feb.gmb 46
+Mar.gmb 47
+Apr.gmb 48
+May.gmb 49
+Jun.gmb 50
+Jul.gmb 51
+Aug.gmb 52
+Sep.gmb 53
+Oct.gmb 54
+Nov.gmb 55
+Dec.gmb 56
+
+Jan_SNR.gmb 57
+Feb_SNR.gmb 58
+Mar_SNR.gmb 59
+Apr_SNR.gmb 60
+May_SNR.gmb 61
+Jun_SNR.gmb 62
+Jul_SNR.gmb 63
+Aug_SNR.gmb 64
+Sep_SNR.gmb 65
+Oct_SNR.gmb 66
+Nov_SNR.gmb 67
+Dec_SNR.gmb 68
